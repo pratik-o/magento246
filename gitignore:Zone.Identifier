@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://brightness.bitrix24.com/desktop_app/?BXD_API_VERSION=74&user_lang=en&login=p.ojha%40brightness-india.com
+HostUrl=https://brightness.bitrix24.com/bitrix/services/main/ajax.php?action=disk.api.file.download&SITE_ID=s1&humanRE=1&fileId=545973&fileName=.gitignore
